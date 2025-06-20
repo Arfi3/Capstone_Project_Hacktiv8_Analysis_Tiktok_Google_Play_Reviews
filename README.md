@@ -1,4 +1,4 @@
-#  🧺Capstone Project (Tiktok Review Analysis) 📊
+#  🤳🏻Capstone Project (Tiktok Review Analysis) 📊
 
 
 ---
