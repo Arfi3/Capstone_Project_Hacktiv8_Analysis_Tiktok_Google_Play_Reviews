@@ -64,8 +64,7 @@ Dataset yang digunakan tersedia di repositori:
 
 ##  🤖AI Support Explanation
 
-Analisis yang dilakukan menggunakan model IBM Granite (granite-3.3-8b-instruct) melalui layanan Replicate API, yang digunakan untuk:
-
+Analisis ini dilakukan menggunakan model Large Language Model (LLM) dari IBM, yaitu Granite (granite-3.3-8b-instruct) yang diakses melalui layanan Replicate API. Model ini digunakan untuk:
 - Mendeteksi sentimen (positive, negative, dan neutral)
 - mengetahui fokus area dan keyword dari ulasan
 - Mengklasifikasi permasalahan yang dikeluhkan pengguna
